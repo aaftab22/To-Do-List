@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TO DO LIST</string>
+
+    <string name="freeApp">USE FREE AND EASY APP WITHOUT ANY ADS!!!</string>
+    <string name="withoutLogin">TIRED OF SHARING EMAIL and CREATING PASSWORD.......!!! NOOO MOREEEE  </string>
+    <string name="quickAndHelpful">NO INTERNET NEEDED TO USE THIS AMAZING APP NO MORE WORRYING OF DATA GETTING STOLEN</string>
+    <string name="enter_a_task">Enter a Task</string>
+    <string name="high_priority_task">High Priority Task?</string>
+    <string name="add_btn_text">ADD</string>
+    <string name="delete_button_icon">Delete button icon</string>
+    <string name="todo">TODO</string>
+
+</resources>
