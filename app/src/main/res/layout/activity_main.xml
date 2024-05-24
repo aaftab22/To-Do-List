@@ -86,5 +86,4 @@
             android:text="@string/add_btn_text"/>
 
     </LinearLayout>
-
 </LinearLayout>

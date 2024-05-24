@@ -10,4 +10,13 @@
     <string name="delete_button_icon">Delete button icon</string>
     <string name="todo">TODO</string>
 
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us_description">We are a passionate team dedicated to providing the best experience for our users. Our app is designed to help you manage your tasks efficiently and effectively.</string>
+    <string name="our_team_title">Our Team</string>
+    <string name="twitter_icon_desc">This is linkedin icon</string>
+    <string name="facebook_icon_desc">This is facebook icon</string>
+    <string name="linkedin_icon_desc">"This is linkedin "</string>
+    <string name="complaint_here_email">If you have any concerns or complaints, please email us at:</string>
+    <string name="businessEmail">darksuntechnologies@gmail.com</string>
+
 </resources>

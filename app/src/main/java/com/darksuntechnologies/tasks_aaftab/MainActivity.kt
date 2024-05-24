@@ -1,6 +1,7 @@
 package com.darksuntechnologies.tasks_aaftab
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuInflater
@@ -95,7 +96,7 @@ class MainActivity : AppCompatActivity() {
                 true
             }
             R.id.about_tab -> {
-
+                startActivity(Intent(this, AboutUsActivity::class.java))
                 true
             }
             else -> super.onOptionsItemSelected(item)
